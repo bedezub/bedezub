@@ -11,8 +11,8 @@
 - 🏪 <a href="bit.ly/probake-store">FIDI Bakery Online Store</a><br><br>
 - 💪🏻 <a href="bit.ly/sado-es">Smart Application Diet Organizer (SADO)</a><br>
 
-<h3 align="center">Publication</h3>
-<h6 align="center">My humble contribution to the scientific community 🔬</h6>
+<h3 align="center">Publication 🔬</h3>
+<h6 align="center">My humble contribution to the scientific community</h6>
 - ⚽️ <a href="https://ieeexplore.ieee.org/document/9918708">Clustering in Game Analysis (LiGAN)</a><br><br>
 
 <h3 align="center">Connect with me 🤝</h3>
@@ -20,7 +20,7 @@
 <div align="center">
 <a href="https://twitter.com/bedezub" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="zubquzaini"/></a>
 <a href="https://linkedin.com/in/zubquzaini" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="zubquzaini" /></a>
-</div>
+</div><br>
 
 <h3 align="center">Languages and Tools ⚡️</h3>
 <h6 align="center">Language and tools that I am familiar with or have used before</h6>
