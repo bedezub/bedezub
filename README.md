@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **subject related to Machine Learning and Data Analytics**
 
-<h3 align="center" style="border-bottom: 1px solid #FAFAFA;">Projects</h3>
+<h3 align="center">Projects</h3>
 <h6 align="center">Sample projects that I have developed during my studies or free time ✨</h6>
 - 📈 <a href="https://bit.ly/probake-bakery-sales">PROBAKE Business Analytics Dashboard</a><br><br>
 - 🏪 <a href="bit.ly/probake-store">FIDI Bakery Online Store</a><br><br>
 - 💪🏻 <a href="bit.ly/sado-es">Smart Application Diet Organizer (SADO)</a><br>
 
-<h3 align="left">Publication:</h3>
+<h3 align="center">Publication:</h3>
 <h6 align="center">My humble contribution to the scientific community 🔬</h6>
 - ⚽️ <a href="https://ieeexplore.ieee.org/document/9918708">Clustering in Game Analysis (LiGAN)</a><br><br>
 
