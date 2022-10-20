@@ -7,9 +7,9 @@
 
 <h3 align="left">Projects:</h3>
 <h6 align="center">Sample projects that I have developed during my studies or free time ✨</h6>
-- 📈 <a href=""></a>
-- 🏪 <a href="bit.ly/probake-store">FIDI Bakery Online Store</a>
-- 💪🏻 <a href="bit.ly/sado-es">Smart Application Diet Organizer (SADO)</a>
+- 📈 <a href="https://bit.ly/probake-bakery-sales">PROBAKE Business Analytics Dashboard</a><br>
+- 🏪 <a href="bit.ly/probake-store">FIDI Bakery Online Store</a><br>
+- 💪🏻 <a href="bit.ly/sado-es">Smart Application Diet Organizer (SADO)</a><br>
 
 
 
