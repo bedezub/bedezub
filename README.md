@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Zubli Quzaini</h3>
+<h3 align="center">Hi, I'm Zubli Quzaini 👋</h3>
 <h6 align="center">Intelligent System Engineering student with passion for software development and data analytics</h6>
 
 - 🔭 I’m currently working on **my final year project, SCLERA**
@@ -10,8 +10,6 @@
 - 📈 <a href="https://bit.ly/probake-bakery-sales">PROBAKE Business Analytics Dashboard</a><br><br>
 - 🏪 <a href="bit.ly/probake-store">FIDI Bakery Online Store</a><br><br>
 - 💪🏻 <a href="bit.ly/sado-es">Smart Application Diet Organizer (SADO)</a><br><br>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <h6 align="center">Language and tools that I am familiar with or have used before ⚡️</h6>
