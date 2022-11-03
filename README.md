@@ -13,7 +13,7 @@
 
 <h3 align="left">Publication:</h3>
 <h6 align="center">My humble contribution to the scientific community 🔬</h6>
-- ⚽️ <a href="https://ieeexplore.ieee.org/document/9918708">Clustering in Game Analysis (LiGAN)</a><br>
+- ⚽️ <a href="https://ieeexplore.ieee.org/document/9918708">Clustering in Game Analysis (LiGAN)</a><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
