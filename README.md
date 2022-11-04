@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **subject related to Machine Learning and Data Analytics**
 
-<h3 align="center">Projects</h3><hr>
+<h3 align="center" style="border-bottom: 1px solid #333;">Projects</h3>
 <h6 align="center">Sample projects that I have developed during my studies or free time ✨</h6>
 - 📈 <a href="https://bit.ly/probake-bakery-sales">PROBAKE Business Analytics Dashboard</a><br><br>
 - 🏪 <a href="bit.ly/probake-store">FIDI Bakery Online Store</a><br><br>
